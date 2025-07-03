@@ -20,3 +20,11 @@ A GUI application developed using JavaFX and backend development using Java.
 &emsp;2. All the skills from the file are extracted and parsed to SkillMatcher to find the appropriate job roles.  
 &emsp;3. The potential employers are then extracted from the job roles acquired by parsing them to JobCompanyMap and then displayed.  
 &emsp;4. If a target company is selected, all the skills that are missing from resume, for the particular role, are posted onto the stage.
+
+
+## Credits:
+Team Leader: Vivek Bartwal    
+Team Members:  
+&emsp;1. Vijayvrat Singh  
+&emsp;2. Vaibhav Sharma  
+&emsp;3. Saksham Bartwal
